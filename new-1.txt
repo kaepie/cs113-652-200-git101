@@ -3,11 +3,11 @@
 
 typedef struct
 {
-    Node* next;
+    Node next;
     int value;
 }Node;
 
-int main()
+void main()
 {
     return 0;
 }
